@@ -1,0 +1,1 @@
+numerical_features = ['vote_count', 'popularity', 'release_year', 'movie_age', 'num_genres']
